@@ -1,0 +1,12 @@
+{
+  "name":"mhorngre/328/hello",
+  "authors":[
+    {
+      "name":"Michael Horn",
+      "email":"mhorn8@mail.greenriver.edu"
+    }
+  ],
+  "require":{
+    "bcosca/fatfree-core":"dev-master"
+  }
+}
